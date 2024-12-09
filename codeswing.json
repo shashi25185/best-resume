@@ -1,0 +1,14 @@
+{
+    "codeswing.autoSave": true,
+    "codeswing.launchBehavior": "openSwing",
+    "codeswing.templateGalleries": [
+        
+        "web:basic",
+        "web:components",
+        "web:languages"
+    ]
+}
+{
+    "scripts": [],
+    "styles": []
+  }
